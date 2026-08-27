@@ -1,0 +1,13 @@
+/.lake/
+/.venv/
+/dist/
+/build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+solver-report*.json
+
